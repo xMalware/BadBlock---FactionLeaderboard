@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="B:/BadBlock/1.12/spigot.jar"/>
+	<classpathentry kind="lib" path="B:/Dev/Java/Libraries/Vault.jar"/>
+	<classpathentry kind="lib" path="B:/BadBlock/Lands.jar"/>
+	<classpathentry kind="lib" path="C:/Users/root/Downloads/LandsAPI.jar"/>
+	<classpathentry kind="lib" path="B:/BadBlock/BadKeys.jar"/>
+	<classpathentry kind="lib" path="B:/BadBlock/massivecore_pour_factions_2.8.5.jar"/>
+	<classpathentry kind="lib" path="B:/BadBlock/Factions Fonctionnel.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

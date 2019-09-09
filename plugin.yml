@@ -1,0 +1,5 @@
+name: FactionLeaderboard
+main: fr.badblock.faction.leaderboard.FactionLeaderboard
+author: xMalware
+version: 1.0
+depends: [Factions, Vault, BadBlockKeys]
